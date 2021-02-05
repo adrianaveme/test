@@ -1,6 +1,7 @@
 body
 {
-    colo: deeppink;
+    color: deeppink;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
 }
